@@ -14,6 +14,16 @@ The purpose of the analysis is to gain insights on how to help improve access to
 
 ## **Results:**
 
+
+<img width="457" alt="PyBer_Summary" src="https://user-images.githubusercontent.com/89538802/134794128-2fd9c52c-66cd-45b8-82d2-0b67315a54ec.PNG">
+
+
+![PyBer_fare_summary](https://user-images.githubusercontent.com/89538802/134794389-65d2c3a1-7f64-488a-acf3-de80466c6ac1.png)
+
+
+![Fig3](https://user-images.githubusercontent.com/89538802/134794159-76e52e3d-5de3-4d45-b817-3888fa187a5a.png)
+
+
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 
