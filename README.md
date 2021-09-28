@@ -31,13 +31,15 @@ Analysis shows that while urban ride sharing represents 62.7% of all fares gener
 
 Based on the results, below are three business recommendations to the CEO for addressing any disparities among the city types.
 1. Further exploritory data is needed to assist in understanding the business drivers for the disparities amoung city types such as:
+
         *  kilometres per ride
         *  passengers per ride
         *  weather at time per ride
         *  population per city type
         *  number of cars on the road per city type
         *  competitors per city type/ alternative public transportation means per city type
-3. reco 2
-4. reco 3
+        
+2. reco 2
+3. reco 3
 
 
