@@ -38,7 +38,8 @@ Based on the results, below are three business recommendations to the CEO for ad
         *  competitors per city type/ alternative public transportation means per city type
         
 2. Assuming that a key differenciator between city types is physical distance driven, urban centres are likely far shorter than those of suburban and even more so than rural centers.  Potential opporunity to charge higher premium $/km on shorter distances and a lower $/km on longer distances.  This could increase the avg far per ride in urban locations, while making fares more attractive/ affordable in rural locations
-3. Assuming that there is likely greater competition for ride sharing or alternative public transportation readily available in urban/subuarn centres than rural, propose pilot project focussing on the top 10 fare generating cities by
+3. Assuming that there is likely greater competition for ride sharing or alternative public transportation readily available in urban/subuarn centres than rural, propose pilot project focussing on the top 10 fare generating cities by:
+
               * Increasing available drivers in centers with lower driver count to increase ride opportunities
               * Review where driver volumes are greatly exceeding ride volumes to reduce competition amoungs PyBer drivers.  This could be accomplished with shift or territory balancing.
               * marketing campaign to increase Pyber ride share awareness; offer incentives to increase ridership especially in suburan center
