@@ -24,7 +24,8 @@ Analysis shows that while urban ride sharing represents 62.7% of all fares gener
 
 
 
-![Fig3](https://user-images.githubusercontent.com/89538802/134794159-76e52e3d-5de3-4d45-b817-3888fa187a5a.png)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/89538802/135034992-834438c3-a22f-4bee-8770-a707dfb51343.png)
+
 
 
 ## **Summary:**
