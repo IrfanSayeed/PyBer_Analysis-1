@@ -45,3 +45,6 @@ Based on the results, below are three business recommendations to the CEO for ad
               * marketing campaign to increase Pyber ride share awareness; offer incentives to increase ridership especially in suburan center
 
 
+<img width="442" alt="Top_Ten_Cities_Fares" src="https://user-images.githubusercontent.com/89538802/135047261-9f7b96d0-23a1-4ebb-9c14-a14efc29fd26.PNG">
+
+
