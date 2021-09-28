@@ -20,7 +20,6 @@ The purpose of the analysis is to gain insights on how to help improve access to
 Analysis shows that while urban ride sharing represents 62.7% of all fares generated,  the key driver for this large percentage is volume of riders and available drivers in urban centres.   The average fare per ride in Urban centres is $24.53 which is 29.2% ($10.09) lower than that of Rural and 20.8% ($6.44) than that of Suburban fares. 
 
 
-
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/89538802/135034992-834438c3-a22f-4bee-8770-a707dfb51343.png)
 
 
@@ -28,16 +27,17 @@ Analysis shows that while urban ride sharing represents 62.7% of all fares gener
 ## **Summary:**
 
 Based on the results, below are three business recommendations to the CEO for addressing any disparities among the city types.
-1. Further exploritory data is needed to assist in understanding the business drivers for the disparities amoung city types such as:
+1. Further exploritory data is needed to assist in understanding the business drivers for more concrete insights on the disparities amoung city types such as:
 
-        *  kilometres per ride
+        *  kilometres/ time spent driving per ride
         *  passengers per ride
         *  weather at time per ride
         *  population per city type
+        *  avg household income/ disposable income
         *  number of cars on the road per city type
         *  competitors per city type/ alternative public transportation means per city type
         
-2. reco 2
+2. Assuming that a key differenciator between city types is physical distance driven, urban centres are likely far shorter than those of suburban and even more so than rural centers.  Potential opporunity to charge higher premium $/km on shorter distances and a lower $/km on longer distances.  This could increase the avg far per ride in urban locations, while making fares more attractive/ affordable in rural locations
 3. reco 3
 
 
