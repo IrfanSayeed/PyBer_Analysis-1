@@ -1,50 +1,39 @@
-# PyBer_Analysis
+# PyBer_Analysis (Module 5 Challenge)
 
-## **Background**
+## **Background / Requirements**
 V. Isualize has given you and Omar a brand-new assignment. Using your Python skills and knowledge of Pandas, you’ll create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, you’ll create a multiple-line graph that shows the total weekly fares for each city type. Finally, you’ll submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
-### **Data Source:** 
-city_data.csv, PyBer_ride_data_csv, ride_data.csv
+### **Source:** 
+- Python (Jupyter Note Book) 
+- city_data.csv, PyBer_ride_data_csv, ride_data.csv (saved in folder "\Source)
 
-### **Software:**
-Python 3.7.10 , Jupyter Notebook
+## 1. ** Overview of the analysis: **
+The purpose of this analysis is to review the PyBer rides data to have a better understanding of the ridership and fare metrics (Urban vs Rurel).
 
-## **Overview of the analysis:**
-The purpose of the analysis is to gain insights on how to help improve access to ride-sharing services and determine affordability for underserved neighborhoods.
-
-## **Results:**
+## 2. **Results: **
 
 ### Ride Sharing Data by City Type Summary
-<img width="457" alt="PyBer_Summary" src="https://user-images.githubusercontent.com/89538802/134794128-2fd9c52c-66cd-45b8-82d2-0b67315a54ec.PNG">
-
-Analysis shows that while urban ride sharing represents 62.7% of all fares generated,  the key driver for this large percentage is volume of riders and available drivers in urban centres.   The average fare per ride in Urban centres is $24.53 which is 29.2% ($10.09) lower than that of Rural and 20.8% ($6.44) than that of Suburban fares. 
 
 
-![PyBer_fare_summary](https://user-images.githubusercontent.com/89538802/135034992-834438c3-a22f-4bee-8770-a707dfb51343.png)
+Analysis identified that urban ride sharing represents highest (62.7%) of all fares generated, key reason for this large percentage is volume of riders and more drivers in urban centers. The average fare per ride in Urban centres is $24.53 which is 29.2% ($10.09) lower than that of Rural and 20.8% ($6.44) than that of Suburban fares. Reason for this is due to high frequency of rides within short distance which generate more min fare and less accumulated distance.
+
+![Result](https://user-images.githubusercontent.com/90229438/152299645-b46e813d-4301-40c6-bd23-57bf3f99a12d.PNG)
+
+
+## **Summary / Recommendations: **
+
+High fuel price, Expensive electric vehicle, inflation, grid locks, weather and pandemic fears are keeping people within their vicinity. Low cost and fair practice services will encourage people to use ride sharing transportation. Part time drivers try to make more money in short time and so we can not expect good customer services. Sooner or later, more peoples will be choosing to work from home or only goto work for physical and technical assistance.   
+
+> Based on the comparative analysis, below are some business recommendations to PyBer SLTs:
+1. Attract more rider by discounts and promo such as free rides after certain numbers of ride or total fares in dollars
+2. Introduce Tier base pricing i.e. more your ride within a time frame get cheaper rate per KM
+3. Add premium during rush hours and applicable min fare for short distances
+4. Also Introduce no-passenger rides, pickup/delivery, city tour, hospital appointment service, carpooler assistance etc. 
+5. Offer more incentive to drivers who work during non rush hours and accept long haul drives
+6. Introduce Rural to Urban and vice versa rids for daily commuter
+7. Incorouge drivers to provide advance schedule to avoid low or high driver counts at certain point. This will help to catch more business and satisfied drivers.
 
 
 
-## **Summary:**
-
-Based on the results, below are three business recommendations to the CEO for addressing any disparities among the city types.
-1. Further exploritory data and a longer time span (ideally 12-18 months) is needed to assist in understanding the business drivers for more concrete insights on the disparities amoung city types such as:
-
-        *  kilometres/ time spent driving per ride
-        *  passengers per ride
-        *  weather at time per ride
-        *  population per city type
-        *  avg household income/ disposable income
-        *  number of cars on the road per city type
-        *  competitors per city type/ alternative public transportation means per city type
-        
-2. Assuming that a key differenciator between city types is physical distance driven, urban centres are likely far shorter than those of suburban and even more so than rural centers.  Potential opporunity to charge higher premium $/km on shorter distances and a lower $/km on longer distances.  This could increase the avg far per ride in urban locations, while making fares more attractive/ affordable in rural locations
-3. Assuming that there is likely greater competition for ride sharing or alternative public transportation readily available in urban/subuarn centres than rural, propose pilot project focussing on the top 10 fare generating cities by:
-
-              * Increasing available drivers in centers with lower driver count to increase ride opportunities
-              * Review where driver volumes are greatly exceeding ride volumes to reduce competition amoungs PyBer drivers.  This could be accomplished with shift or territory balancing.
-              * marketing campaign to increase Pyber ride share awareness; offer incentives to increase ridership especially in suburan center
-
-
-<img width="440" alt="Top_Ten_Cities" src="https://user-images.githubusercontent.com/89538802/135047497-83a5e333-4123-41d9-9d28-2671a4e44f73.PNG">
 
 
